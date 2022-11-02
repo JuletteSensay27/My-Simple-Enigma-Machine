@@ -1,0 +1,36 @@
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.exe.config
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.exe
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.pdb
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.AssemblyReference.cache
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\MainWindow.g.cs
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\App.g.cs
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine_MarkupCompile.cache
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine_MarkupCompile.lref
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\MainWindow.baml
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.g.resources
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.Properties.Resources.resources
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.GenerateResource.cache
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.CoreCompileInputs.cache
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.exe
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.pdb
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\ringGeneratorWindow.g.cs
+C:\Users\JAPEQ-Family\source\repos\myEnigmaMachine\myEnigmaMachine\obj\Debug\ringGeneratorWindow.baml
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.exe.config
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.exe
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\bin\Debug\myEnigmaMachine.pdb
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.AssemblyReference.cache
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\MainWindow.g.cs
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\ringGeneratorWindow.g.cs
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\App.g.cs
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine_MarkupCompile.cache
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine_MarkupCompile.lref
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\MainWindow.baml
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\ringGeneratorWindow.baml
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.g.resources
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.Properties.Resources.resources
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.GenerateResource.cache
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.csproj.CoreCompileInputs.cache
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.exe
+C:\Users\julet\OneDrive\Desktop\Workspace\c# Apps\myEnigmaMachine\myEnigmaMachine\obj\Debug\myEnigmaMachine.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Name="enigmaWindow" x:Class="myEnigmaMachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myEnigmaMachine"
+        mc:Ignorable="d"
+        Title="My Enigma Machine" Height="863" Width="1590" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="enigmaMachineGrid">
+        <Button x:Name="importBtn" Content="Import Rings" HorizontalAlignment="Left" Margin="33,33,0,0" VerticalAlignment="Top" Height="29" Width="81" Click="importBtn_Click"/>
+        <Label x:Name="filePathLbl" Content="" HorizontalAlignment="Left" Margin="137,35,0,0" VerticalAlignment="Top" Background="#FFC172E0"/>
+        <Button x:Name="loadRingsBtn" Content="Load Rings" HorizontalAlignment="Left" Margin="33,80,0,0" VerticalAlignment="Top" Height="31" Width="81" Click="loadRingsBtn_Click"/>
+        <ComboBox x:Name="ringCmbBx" HorizontalAlignment="Left" Margin="105,183,0,0" VerticalAlignment="Top" Width="191" Height="25" SelectionChanged="ringCmbBx_SelectionChanged" IsEnabledChanged="ringCmbBx_IsEnabledChanged"/>
+        <ComboBox x:Name="ringCmbBx1" HorizontalAlignment="Left" Margin="104,230,0,0" VerticalAlignment="Top" Width="191" Height="25" IsEnabledChanged="ringCmbBx1_IsEnabledChanged" SelectionChanged="ringCmbBx1_SelectionChanged"/>
+        <ComboBox x:Name="ringCmbBx2" HorizontalAlignment="Left" Margin="104,278,0,0" VerticalAlignment="Top" Width="191" Height="25" IsEnabledChanged="ringCmbBx2_IsEnabledChanged" SelectionChanged="ringCmbBx2_SelectionChanged"/>
+        <Label x:Name="ringsSelectLbl" Content="Select Your Rings Here: " HorizontalAlignment="Left" Margin="33,152,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring1SelectLbl" Content="1st Ring" HorizontalAlignment="Left" Margin="40,183,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring2SelectLbl" Content="2nd Ring" HorizontalAlignment="Left" Margin="36,230,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring3SelectLbl" Content="3rd Ring" HorizontalAlignment="Left" Margin="39,278,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ringLoadErrorLbl" Content="You still haven't imported your ring file yet!" HorizontalAlignment="Left" Margin="137,83,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
+        <Label x:Name="errorCodeValLbl" Content="" HorizontalAlignment="Left" Margin="127,133,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="errorMessValLbl" Content="" HorizontalAlignment="Left" Margin="138,128,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="lockSelectedRingsBtn" Content="Lock Selected Rings" HorizontalAlignment="Left" Margin="173,334,0,0" VerticalAlignment="Top" Height="31" Width="123" Click="lockSelectedRingsBtn_Click"/>
+        <TextBox x:Name="inputTbx" HorizontalAlignment="Left" Margin="36,641,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="487" Height="181" BorderBrush="Black" KeyDown="inputTbx_KeyDown" TextChanged="inputTbx_TextChanged"/>
+        <TextBox x:Name="EncryptTbx" HorizontalAlignment="Left" Margin="1010,636,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="488" Height="181" BorderBrush="Black" IsReadOnly="True"/>
+        <Label x:Name="inputLbl" Content="Input Message" HorizontalAlignment="Left" Margin="39,610,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="EncryptLbl" Content="Encrypted Message" HorizontalAlignment="Left" Margin="1010,605,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ringOffCmbBx" HorizontalAlignment="Left" Margin="105,407,0,0" VerticalAlignment="Top" Width="191" Height="25"/>
+        <ComboBox x:Name="ringOffCmbBx1" HorizontalAlignment="Left" Margin="104,454,0,0" VerticalAlignment="Top" Width="191" Height="25"/>
+        <ComboBox x:Name="ringOffCmbBx2" HorizontalAlignment="Left" Margin="104,502,0,0" VerticalAlignment="Top" Width="191" Height="25"/>
+        <Label x:Name="ringsSelectOffLbl" Content="Set your Offsets here:" HorizontalAlignment="Left" Margin="33,376,0,0" VerticalAlignment="Top" Width="153" Height="26"/>
+        <Label x:Name="ring1SelectOffLbl" Content="1st Ring" HorizontalAlignment="Left" Margin="40,407,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring2SelectOffLbl" Content="2nd Ring" HorizontalAlignment="Left" Margin="36,454,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring3SelectLblOff" Content="3rd Ring" HorizontalAlignment="Left" Margin="39,502,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="lockSelectedRingsOffBtn" Content="Lock Desired Offsets" HorizontalAlignment="Left" Margin="173,558,0,0" VerticalAlignment="Top" Height="31" Width="123" Click="lockSelectedRingsOffBtn_Click"/>
+        <Label x:Name="ring1NumLbl" Content="Label" HorizontalAlignment="Left" Margin="571,719,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring2NumLbl" Content="Label" HorizontalAlignment="Left" Margin="642,719,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ring3NumLbl" Content="Label" HorizontalAlignment="Left" Margin="716,719,0,0" VerticalAlignment="Top"/>
+        <Grid x:Name="elGrid1" Margin="906,65,49,783">
+        </Grid>
+
+
+    </Grid>
+</Window>
